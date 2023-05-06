@@ -1,4 +1,4 @@
- <h2>Functionalities</h2?
+ <h2>Functionalities</h2>
  
  <ul>
  <li>Loading the data from Firebase</li>
